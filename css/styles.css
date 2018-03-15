@@ -2,6 +2,7 @@ html {
 	font-family: "Helvetica Neue", Arial, Sans-serif;
 	line-height: 1.35;
 	box-sizing: border-box;
+	font-size: 20px;
 }
 
 * {
@@ -9,5 +10,88 @@ html {
 }
 
 .topribbon {
+	width: 100%;
+	
+	background-color: #06D6A0;
+	padding: 20px;
+	text-align: left;
+	display: inline-block;
+	font-size: 20px; 
+}
+
+
+.navigationbar {
+	text-align: right;
+	
+}
+
+.cattitle {
+	float: left;
 
 }
+
+.main {
+	margin: 0 25%;
+
+}
+
+.mainheading {
+	color: white;
+	text-align: center;
+	font-size: 35px;
+	margin-top: 10%; 
+
+}
+
+.herocatgroup{
+	width: 60%;
+	float: left;
+	min-width: 400px;
+}
+
+.firstpart {
+	background-color: #26547C;
+	overflow: auto;
+	height: 30%;
+}
+ .paragraphbox {
+ 	background-color: #FFD166;
+ 	padding: 20px;
+ }
+ .aboutcats {
+ 	font-weight: 850; 
+ 	padding: 10px; 
+ }
+ .aboutc {
+ 	padding: 10px;
+ }
+
+.secondpart {
+	padding: 25px;
+	background-color: #F2F2F2;
+	overflow: auto;
+}
+
+.secondbody {
+	padding: 10px;
+}
+
+.imageset {
+	margin-top: 5px;
+
+}
+/**/
+
+li {
+	display: inline-block;
+	width: 25%;
+	border: black solid;
+	margin: 5px;
+
+}
+li > img {
+	width: 100%;
+}
+
+
+ 
