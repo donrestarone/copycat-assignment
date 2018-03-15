@@ -93,5 +93,34 @@ li > img {
 	width: 100%;
 }
 
+.thirdpart {
+	background-color: #26547C;
+}
 
- 
+.spacedletters {
+	padding: 10px;
+	text-align: center;
+}
+
+.secondbody {
+	padding: 10px;
+	padding-bottom: 25px;
+	color: white;
+}
+
+.spacing {
+	margin: 75px;
+	font-weight: 700;
+	color: #EF476F;
+ }
+ .products {
+ 	font-weight: 750;
+ }
+
+ footer {
+ 	color: black;
+ 	height: 45px;
+ 	background-color: #06D6A0;
+ 	text-align: right;
+ 	padding: 10px;
+ }
